@@ -18,5 +18,7 @@ As shown on this graph most customers are male subscribers. So, while we have to
 ![](images/CheckoutTimes.PNG)
 
 On this graph we can see that mostly bikes are used for short trips under 10 minutes. There are almost no trips longer than 1 hour. For the future development it should be investigated how to increase trip longevity such as EBikes will make it easier to sell long trips.
+![](images/start.PNG)
+![](images/end.PNG)
 
 On this sheet it can be seen that the most popular areas are downtown and high trafficking areas where  it’s almost impossible to use a personal vehicle.
