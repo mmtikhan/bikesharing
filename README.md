@@ -2,8 +2,10 @@
 Created a story and multiple dashboards using Tableau.
 
 ## Overview
+[Link to Tableau](https://public.tableau.com/app/profile/mikhail.tikhanchikov/viz/CitiBikeProposal_16581976800830/CheckoutTimesforUsers)
 
-This project is created for potential investors who want to invest in bikesharing. This project visualizes New York City data in August, one of the most profitable months in the year. 
+This project is created for potential investors who want to invest in bikesharing. This project visualizes New York City data in August, one of the most profitable months in the year.
+
 ## Results
 ![](images/Hours.PNG)
 
@@ -21,4 +23,12 @@ On this graph we can see that mostly bikes are used for short trips under 10 min
 ![](images/start.PNG)
 ![](images/end.PNG)
 
-On this sheet it can be seen that the most popular areas are downtown and high trafficking areas where  it’s almost impossible to use a personal vehicle.
+On this sheet it can be seen that the most popular start locations and end locations are downtown and high trafficking areas where  it’s almost impossible to use a personal vehicle.
+
+![](images/RAge.PNG)
+In addition, the rade by age is provided. There is outliner data that must be ignored. It can be seen that mostly people aroung 30s use service.
+
+## Conclusion
+According to analys
+According to analysis, mostly bikes are used for short trips by male subscribers in high traffic areas in the beginning and the end of the day and afternoon at weekends. The analysis shows that bike sharing is extremely popular and has a lot of potential to grow. Definitely, we recommend investing in it. 
+For the future investigations we recommend analyzing the following aspects: if additional data is provided what the average subscription time and how often a subscriber uses the service
