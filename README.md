@@ -4,6 +4,8 @@ Created a story and multiple dashboards using Tableau.
 ## Overview
 
 This project is created for potential investors who want to invest in bikesharing. This project visualizes New York City data in August, one of the most profitable months in the year. 
+## Results
+![](images/Hours.PNG)
 
 According to data, the most active time is the beginning and the end of working days so people mostly use bikes to commute from home to work and back.
 
