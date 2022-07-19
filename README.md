@@ -14,6 +14,7 @@ In addition, the heatmap supports previous data but also adds some more informat
 ![](images/TripsbyGender.PNG)
 
 As shown on this graph most customers are male subscribers. So, while we have to target mostly male customers it will be a task for marketing to understand how to attract more female customers.
+![](images/CheckoutTimes.PNG)
 
 On this graph we can see that mostly bikes are used for short trips under 10 minutes. There are almost no trips longer than 1 hour. For the future development it should be investigated how to increase trip longevity such as EBikes will make it easier to sell long trips.
 
