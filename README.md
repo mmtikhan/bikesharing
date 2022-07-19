@@ -9,6 +9,7 @@ This project is created for potential investors who want to invest in bikesharin
 
 According to data, the most active time is the beginning and the end of working days so people mostly use bikes to commute from home to work and back.
 ![](images/TripsbyWeekday.PNG)
+![](images/TripsbyGenderW.PNG)
 
 In addition, the heatmap supports previous data but also adds some more information as the popular time at the weekend is afternoon.
 ![](images/TripsbyGender.PNG)
