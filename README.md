@@ -1,7 +1,7 @@
 # Bikesharing
 Created a story and multiple dashboards using Tableau.
 
-##Overview
+## Overview
 
 This project is created for potential investors who want to invest in bikesharing. This project visualizes New York City data in August, one of the most profitable months in the year. 
 
